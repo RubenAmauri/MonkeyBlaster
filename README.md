@@ -46,9 +46,9 @@ Al iniciar aparecerá un diálogo de configuración. Se recomienda:
 ## 📚 Documentación
 
 Puedes consultar la documentación completa aquí:
-- [Documentación del proyecto](docs/DocumentacionProyecto/)
+- [Documentación del proyecto](docs/DocumentaciónProyecto/)
 
-Tutorial base: [Make a Neon Vector Shooter in jMonkeyEngine](https://code.tutsplus.com/make-a-neon-vector-shooter-in-jmonkeyengine-the-basics--gamedev-11616t) — basado en el [original de XNA](https://dev.tutsplus.com/series/vector-shooter-xna--gamedev-10559) por Michael Hoffman.
+Tutorial base: [Make a Neon Vector Shooter in jMonkeyEngine](https://code.tutsplus.com/make-a-neon-vector-shooter-in-jmonkeyengine-the-basics--gamedev-11616t), Autor: Daniel Gallenberger — basado en el [original de XNA](https://dev.tutsplus.com/series/vector-shooter-xna--gamedev-10559) por Michael Hoffman.
 
 ---
 
